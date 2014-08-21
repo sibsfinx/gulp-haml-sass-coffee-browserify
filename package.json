@@ -1,0 +1,57 @@
+{
+  "name": "tastyapp",
+  "version": "0.0.1",
+  "description": "js application for taaasty.ru",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BrandyMint/mmm-tasty-static.git"
+  },
+  "dependencies": {
+    "blueimp-file-upload": "~9.5.8",
+    "envify": "^1.2.1",
+    "gulp-sourcemaps": "~1.1.0",
+    "imagesloaded": "^3.1.8",
+    "react": "^0.11.0",
+    "react-mixin-manager": "~0.5.2",
+    "react-tools": "^0.11.0",
+    "superagent": "~0.18.2",
+    "undo.js": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.7.0",
+    "gulp-load-plugins": "~0.3.0",
+    "gulp-util": "~2.2.9",
+    "gulp-autoprefixer": "~0.0.6",
+    "gulp-jshint": "~1.4.0",
+    "gulp-clean": "~0.2.4",
+    "gulp-bower": "0.0.3",
+    "gulp-cache": "~0.1.1",
+    "gulp-react": "~0.2.0",
+    "gulp-size": "~0.1.2",
+    "gulp-connect": "~1.0.0",
+    "gulp-jade": "~0.4.2",
+    "gulp-useref": "^0.4.4",
+    "gulp-coffee": "~1.4.1",
+    "gulp-bundle": "git+ssh://git@github.com:bleech/gulp-bundle.git",
+    "gulp-browserify": "~0.4.6",
+    "reactify": "~0.10.0",
+    "through2": "latest",
+    "coffeeify": "^0.6.0",
+    "bower": "^1.3.4",
+    "gulp-less": "^1.2.3",
+    "coffee-script": "^1.7.1",
+    "gulp-rename": "^1.2.0",
+    "wiredep": "^1.7.3",
+    "debowerify": "^0.7.1",
+    "gulp-concat": "^2.2.0",
+    "less": "~1.7.3",
+    "gulp-sass": "^0.7.3",
+    "node-sass": "^0.9.3",
+    "gulp-hamlc": "git+ssh://git@github.com:smithclay/gulp-hamlc.git",
+    "haml-coffee": "^1.14.1",
+    "gulp-haml-coffee": "git+ssh://git@github.com:saschagehlich/gulp-haml-coffee.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
